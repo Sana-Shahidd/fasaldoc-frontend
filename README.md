@@ -33,9 +33,21 @@ FasalDoc lets Pakistani farmers photograph a diseased crop leaf and instantly re
 
 ## Screenshots
 
-| Home | Diagnosis | Treatment |
-|------|-----------|-----------|
-| Scan your crop leaf | AI result with confidence | Full treatment guide with read-aloud |
+| Home (Urdu) | AI Analysis | Diagnosis Result |
+|-------------|-------------|-----------------|
+| ![Home](screenshots/01-home.png) | ![Analyzing](screenshots/02-analyzing.png) | ![Diagnosis](screenshots/03-diagnosis.png) |
+
+| Treatment + Read Aloud | Scan History | Settings & Languages |
+|------------------------|--------------|---------------------|
+| ![Treatment](screenshots/04-treatment.png) | ![History](screenshots/05-history.png) | ![Settings](screenshots/06-settings.png) |
+
+| AI Chatbot | Educational Videos |
+|------------|--------------------|
+| ![Chatbot](screenshots/07-chatbot.png) | ![Videos](screenshots/08-videos.png) |
+
+## Demo Video
+
+> Watch the full demo: *(Upload to YouTube and paste the link here)*
 
 ---
 

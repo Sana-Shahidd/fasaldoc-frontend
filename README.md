@@ -47,9 +47,9 @@ FasalDoc lets Pakistani farmers photograph a diseased crop leaf and instantly re
 
 ## Demo Video
 
-<video src="demo.mp4" controls width="100%"></video>
+[![FasalDoc Demo Video](screenshots/03-diagnosis.png)](https://github.com/Sana-Shahidd/fasaldoc-frontend/raw/main/demo.mp4)
 
-> If the video does not play in your browser, [click here to download and watch it](demo.mp4).
+> Click the image above to watch the demo video.
 
 ---
 
